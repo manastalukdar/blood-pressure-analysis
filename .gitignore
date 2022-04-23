@@ -72,3 +72,5 @@ dist
 
 .vscode/.ropeproject
 __pycache__
+
+app/secrets.md
